@@ -1,0 +1,9 @@
+{
+    "product": "Test Bangle",
+    "designNo": "TB001",
+    "pcs": 10,
+    "mm": 5,
+    "category": "Bangles",
+    "netWeight": 25,
+    "basePrice": 5000
+}
